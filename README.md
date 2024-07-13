@@ -1,6 +1,6 @@
 # Why Music Theory?
-Theory gives us the tools and techniques to slowly understand and piece together the building blocks form the music we hear and play.
-I am curating resources and providing beginner explanations of ~~not so~~ "advanced" concepts, so anyone can start their journey.
+Music theory gives us the tools and techniques to slowly understand and piece together the building blocks form the music we hear and play.
+I am curating resources and providing beginner explanations of ~~not so~~ "advanced" concepts, so anyone can start their guitar journey.
 
 I started learning theory right off the bat because I have always passionately listened to Jazz, and wanted to get going straight away.
 I wanted actionable exercises focused around the skills needed to teach myself tunes which I would like to share.
