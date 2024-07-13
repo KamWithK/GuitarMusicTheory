@@ -13,3 +13,5 @@ The theory is biased towards Jazz because that is what I am most passionate abou
 * **Simplified explanations** of frequently used theory topics
 * **How to learn theory** (in the context of _the fretboard_, with diagrams and exercises)
 * **Curated resources** such as _videos and apps_, from reputable teachers
+
+Over time, until I feel satisfied with my progress and able to learn most of the songs I desire, I will hopefully keep adding to this.
