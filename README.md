@@ -1,6 +1,5 @@
 # Why Music Theory?
-Music is a beautiful form of art, that has evolved over decades, and formed recurring patterns.
-Music theory gives us the tools and techniques to provide a structured and progressive roadmap to understand what we hear and play.
+Theory gives us the tools and techniques to slowly understand and piece together the building blocks form the music we hear and play.
 I am curating resources and providing beginner explanations of ~~not so~~ "advanced" concepts, so anyone can start their journey.
 
 I started learning theory right off the bat because I have always passionately listened to Jazz, and wanted to get going straight away.
